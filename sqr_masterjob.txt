@@ -1,1 +1,1 @@
-{"version":"1.0", "notes":"First version!"}
+{"version":"2.0.1", "notes":"Added brand new compatibility system, all special jobs reworked, code optimized and new plugins action with lots of new added-on scripts"}
